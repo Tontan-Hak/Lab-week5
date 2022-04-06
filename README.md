@@ -20,3 +20,6 @@ Teacher's Rechart Lai
      * [Taking An Exam](https://tutorial.math.lamar.edu/Extras/StudyMath/TakingExam.aspx)
      * [Learn From Your Errors](https://tutorial.math.lamar.edu/Extras/StudyMath/Errors.aspx)
 - [Feynman on teaching Physics South-American](http://calteches.library.caltech.edu/46/2/LatinAmerica.htm?fbclid=IwAR2HFl_FrR-9hbecND_2lbHd1O2uL8n2yO39pmC2VKLA1ORLEW-fd7-eyjk) 
+
+# The process of reflection
+- [The process of reflection](https://docs.google.com/document/d/1KThoPoc2LZmIt1-TykXqt48nVZe7yAfnzzrBi2iDZMM/edit)
