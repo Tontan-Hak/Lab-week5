@@ -23,6 +23,6 @@ Teacher's Rechart Lai
 
 # The process of reflection
 - [The process of reflection](https://docs.google.com/document/d/1KThoPoc2LZmIt1-TykXqt48nVZe7yAfnzzrBi2iDZMM/edit)
-    * [procrastination] | [Lazy] | [Unmotivation]()
+    * [procrastination]() | [Lazy]() | [Unmotivation]()
     * ["Do I have a choice of doing this task which I am procrastination?" IF no > DO IT NOW: It costs me more by doing it the last minute.]()
     * [Time management](https://docs.google.com/document/d/1rasGsY4p3krFH_Yj7ADcarizARBhCTF7/edit?usp=sharing&ouid=114771463770519365710&rtpof=true&sd=true)
