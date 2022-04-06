@@ -1,9 +1,10 @@
-# Reflection Questions   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Get started   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Teacher's Rechart Lai
+Start here
 
 -----
 # Learning How to Learn
+Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?v=YFUIPg8P2sY&t=332s)
 - [How to Get the Most Out of Studying](https://www.youtube.com/watch?v=htv6eap1-_M&list=PL85708E6EA236E3DB&index=1)
      * [វីដេអូភាគទី 1](https://www.youtube.com/watch?v=RH95h36NChI&list=PL85708E6EA236E3DB&index=2) | [សរុបខ្លឹមសារ]()
      * [វីដេអូភាគទី 2](https://www.youtube.com/watch?v=9O7y7XEC66M&list=PL85708E6EA236E3DB&index=3) | [សរុបខ្លឹមសារ]()
@@ -26,3 +27,7 @@ Teacher's Rechart Lai
     * [procrastination]() | [Lazy]() | [Unmotivation]()
     * ["Do I have a choice of doing this task which I am procrastination?" IF no > DO IT NOW: It costs me more by doing it the last minute.]()
     * [Time management](https://docs.google.com/document/d/1rasGsY4p3krFH_Yj7ADcarizARBhCTF7/edit?usp=sharing&ouid=114771463770519365710&rtpof=true&sd=true)
+    * [Teaching and learning priciples](https://drive.google.com/file/d/1LS4PAPM9JEN97oc5DphyWT0Ti-y5v5Ai/view?usp=sharing)
+    * [Think outside the box](https://youtu.be/Dk6xrhF3zTQ)
+
+
