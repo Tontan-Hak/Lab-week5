@@ -3,7 +3,7 @@
 Start here
 
 -----
-# Learning How to Learn
+# 🎓 Learning How to Learn
 Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?v=YFUIPg8P2sY&t=332s)
 - [How to Get the Most Out of Studying](https://www.youtube.com/watch?v=htv6eap1-_M&list=PL85708E6EA236E3DB&index=1)
      * [វីដេអូភាគទី 1](https://www.youtube.com/watch?v=RH95h36NChI&list=PL85708E6EA236E3DB&index=2) | [សរុបខ្លឹមសារ]()
@@ -33,4 +33,5 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 
 # Laboratory/Tutorial Exercises
 - [Week 1]()
+    * [🎓Loop]()
 
