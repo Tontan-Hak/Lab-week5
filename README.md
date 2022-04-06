@@ -1,6 +1,6 @@
 # 🚀 Get started   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Start here
+["Do I have a choice of doing this task which I am procrastination?" IF no > DO IT NOW: It costs me more by doing it the last minute.]()
 
 -----
 # 🎓 Learning How to Learn
@@ -22,7 +22,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
      * [Learn From Your Errors](https://tutorial.math.lamar.edu/Extras/StudyMath/Errors.aspx)
 - [Feynman on teaching Physics South-American](http://calteches.library.caltech.edu/46/2/LatinAmerica.htm?fbclid=IwAR2HFl_FrR-9hbecND_2lbHd1O2uL8n2yO39pmC2VKLA1ORLEW-fd7-eyjk) 
 
-# 📌 self-awareness 📌
+# 📌 Self-awareness 📌
 - [KEY IMPORTANT POINTS]()
     * [procrastination]() | [Lazy]() | [Unmotivation]()
     * ["Do I have a choice of doing this task which I am procrastination?" IF no > DO IT NOW: It costs me more by doing it the last minute.]()
