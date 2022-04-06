@@ -31,4 +31,6 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [Think outside the box](https://youtu.be/Dk6xrhF3zTQ)
     * [The process of reflection](https://docs.google.com/document/d/1KThoPoc2LZmIt1-TykXqt48nVZe7yAfnzzrBi2iDZMM/edit)
 
+# Laboratory/Tutorial Exercises
+- [Week 1]()
 
