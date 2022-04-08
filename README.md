@@ -45,3 +45,8 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [Week8](https://docs.google.com/document/d/1wcjZiIlJgY6mymZHZ13ZpxKWxL5T0ipFK1GjTJPv6aQ/edit)
     * [Week9](https://docs.google.com/document/d/1jF03v5kJ-Nb-1J8CTREACwFjRCPXzg3gOWrVXYdwj3Q/edit)
 
+
+
+# add image:
+<img src = "https://github.com/Tontan-Hak/Learning-programming/blob/main/IMG_6907.JPG" width = 20% height = 30% >
+
