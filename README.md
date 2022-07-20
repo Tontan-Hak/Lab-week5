@@ -34,17 +34,3 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [The process of reflection](https://docs.google.com/document/d/1KThoPoc2LZmIt1-TykXqt48nVZe7yAfnzzrBi2iDZMM/edit)
 
 # 🔍 Laboratory/Tutorial Exercises 🔍
-- [Reflection and Lab]()
-    * [Week1](https://docs.google.com/document/d/1KThoPoc2LZmIt1-TykXqt48nVZe7yAfnzzrBi2iDZMM/edit)
-    * [Week2](https://docs.google.com/document/d/1ApnZKPMEQBkbxJWXzSJQaNlWHuFCD97F3TKawHyxHfc/edit)
-    * [Week3](https://docs.google.com/document/d/1TX-0a3WCH5KkmBvtza2ivKGhjGndwLM32HfThIZyaKQ/edit)
-    * [Week4](https://docs.google.com/document/d/1iRpAvtwQvceX9oCVOWMfuXBOnsK8bvrYg669Qw-sHWs/edit)
-    * [Week5](https://docs.google.com/document/d/1n54oN-GNjPzrAiIssbokumT1rCSZoeVa6U7yZJAzd80/edit)
-    * [Week6](https://docs.google.com/document/d/1WuzUI-noSh3OQrvhrD5qVwOnn7chuTYlxYnJPXCLnm4/edit)
-    * [Week7](https://docs.google.com/document/d/15mGjvoCq2Cu58m5wB4Nq3-AsV7OrIlKWBDnTvr0QTWU/edit)
-    * [Week8](https://docs.google.com/document/d/1wcjZiIlJgY6mymZHZ13ZpxKWxL5T0ipFK1GjTJPv6aQ/edit)
-    * [Week9](https://docs.google.com/document/d/1jF03v5kJ-Nb-1J8CTREACwFjRCPXzg3gOWrVXYdwj3Q/edit)
-
-# add image:
-<img src = "https://github.com/Tontan-Hak/Learning-programming/blob/main/IMG_6907.JPG" width = 20% height = 30% >
-
