@@ -1,6 +1,7 @@
 # 🚀 Get started   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**It should be one of our mission to improve everyday for the better**
+"**It should be one of our mission to improve everyday for the better**"
+
 I am happy when I can improve myself just 1% everyday.
 
 Reminding: Do you have a choice not to do it?
