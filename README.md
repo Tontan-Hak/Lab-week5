@@ -1,4 +1,4 @@
-# 🚀 Get started   [![Awesome](https://cdn.rawgit.com/Tontan-Hak/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Tontan-Hak/awesome)
+# 🚀 Get started 
 
       It should be one of our mission to improve everyday for the better
 
