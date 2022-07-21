@@ -6,7 +6,8 @@ I am happy when I can improve myself just 1% everyday.
 
 Reminding: Do you have a choice not to do it?
 
-  "Do I have a choice of doing this task which I am procrastination?" IF no > DO IT NOW: It costs me more by doing it the last minute.
+
+   "Do I have a choice of doing this task which I am procrastination?" IF no > DO IT NOW: It costs me more by doing it the last minute.
 
 # 📌 Self-awareness 📌
 - [KEY IMPORTANT POINTS]()
