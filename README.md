@@ -10,10 +10,10 @@ I am happy when I can improve myself just 1% everyday.
 - [KEY IMPORTANT POINTS]()
     * [procrastination]() | [Lazy]() | [Unmotivation]()
     * ["Do I have a choice of doing this task which I am procrastination?" IF no > DO IT NOW: It costs me more by doing it the last minute.]()
-    * [Time management](https://docs.google.com/document/d/1rasGsY4p3krFH_Yj7ADcarizARBhCTF7/edit?usp=sharing&ouid=114771463770519365710&rtpof=true&sd=true)
-    * [Teaching and learning priciples](https://drive.google.com/file/d/1LS4PAPM9JEN97oc5DphyWT0Ti-y5v5Ai/view?usp=sharing)
-    * [Think outside the box](https://youtu.be/Dk6xrhF3zTQ)
-    * [The process of reflection](https://docs.google.com/document/d/1RYcLEyuPdxp8mdO1YywazflUrywhhn84zheDUeLa15w/edit?usp=sharing)
+    * [Time management]()
+    * [Teaching and learning priciples]()
+    * [Think outside the box]()
+    * [The process of reflection]()
 
 ## License 
 
