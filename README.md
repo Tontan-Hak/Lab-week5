@@ -15,18 +15,6 @@ I am happy when I can improve myself just 1% everyday.
     * [Think outside the box]()
     * [The process of reflection]()
 
-## License 
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-<a href="https://github.com/Tontan-Hak/Learning-programming/stargazers"><img src="https://img.shields.io/github/stars/Tontan-Hak/Learning-programming" alt="Stars Badge"/></a>
-<a href="https://github.com/Tontan-Hak/Learning-programming/network/members"><img src="https://img.shields.io/github/forks/Tontan-Hak/Learning-programming" alt="Forks Badge"/></a>
-<a href="https://github.com/Tontan-Hak/Learning-programming/pulls"><img src="https://img.shields.io/github/issues-pr/Tontan-Hak/Learning-programming" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/Tontan-Hak/Learning-programming/issues"><img src="https://img.shields.io/github/issues/Tontan-Hak/Learning-programming" alt="Issues Badge"/></a>
-<a href="https://github.com/Tontan-Hak/Learning-programming/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Tontan-Hak/Learning-programming?color=2b9348"></a>
-<a href="https://github.com/Tontan-Hak/Learning-programming/blob/main/license"><img src="https://img.shields.io/github/license/Tontan-Hak/Learning-programming?color=2b9348" alt="License Badge"/></a>
------
-
 # edX-financial-assistance-answers
 ### 1. Tell us about your current financial situation. Why do you need assistance?
 I am a student and don't have any special source of income. I totally rely on my father for my college fees and pocket money and other monthly expenditure. My father took an education loan for my graduation expenses. In this circumstance, it is very much difficult for me to gather such amount of money for the certificate. Financial assistance will help me take this course without any adverse impact on my monthly essential needs. So, I’m badly in need of this financial aid. I cannot afford to buy the course for $149 alongside my monthly expenses and college fees. I would be happy to get financial help and discount. Receiving this Financial assistance will open for me a new horizon of the world of edX courses, which in turn will help me in the future.
@@ -110,4 +98,15 @@ Markdown | Less | Pretty
 --- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 3
+## License 
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+<a href="https://github.com/Tontan-Hak/Learning-programming/stargazers"><img src="https://img.shields.io/github/stars/Tontan-Hak/Learning-programming" alt="Stars Badge"/></a>
+<a href="https://github.com/Tontan-Hak/Learning-programming/network/members"><img src="https://img.shields.io/github/forks/Tontan-Hak/Learning-programming" alt="Forks Badge"/></a>
+<a href="https://github.com/Tontan-Hak/Learning-programming/pulls"><img src="https://img.shields.io/github/issues-pr/Tontan-Hak/Learning-programming" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/Tontan-Hak/Learning-programming/issues"><img src="https://img.shields.io/github/issues/Tontan-Hak/Learning-programming" alt="Issues Badge"/></a>
+<a href="https://github.com/Tontan-Hak/Learning-programming/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Tontan-Hak/Learning-programming?color=2b9348"></a>
+<a href="https://github.com/Tontan-Hak/Learning-programming/blob/main/license"><img src="https://img.shields.io/github/license/Tontan-Hak/Learning-programming?color=2b9348" alt="License Badge"/></a>
+-----
 
