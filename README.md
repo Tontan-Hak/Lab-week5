@@ -1,10 +1,7 @@
 # 🚀 Get started 
 
-      It should be one of our mission to improve everyday for the better
-
-      I am happy when I can improve myself just 1% everyday.
-
-      Reminding: The key to success is staying consistent and beating procrastination.
+The open-source for learning anything. Inspired by The [
+Open Source Society University](https://github.com/ossu) & [MIT challenge](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/), this project aims to do the self-taught education. The following document outlines free online courses from top schools like MIT, UC Irvine, et al.. The groupings by Term are meant to pace and structure the course according to a typical Mathematics track at a college or university and is a work in progress. The focus is on the core courses; liberal arts or "GenEd" courses have been omitted.
 
 # 📌 Self-awareness 📌
 - [KEY IMPORTANT POINTS]()
