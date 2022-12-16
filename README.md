@@ -3,7 +3,7 @@
 The open-source for learning anything. Inspired by The [
 Open Source Society University](https://github.com/ossu) & [MIT challenge](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/), this project aims to do the self-taught education. The following document outlines free online courses from top schools like MIT, UC Irvine, et al.. The groupings by Term are meant to pace and structure the course according to a typical Mathematics track at a college or university and is a work in progress. The focus is on the core courses; liberal arts or "GenEd" courses have been omitted.
 
-# 📌 Self-awareness 📌
+# 📌 Self-awareness 
 - [KEY IMPORTANT POINTS]()
     * [procrastination]() | [Lazy]() | [Unmotivation]()
     * ["Do I have a choice of doing this task which I am procrastination?" IF no > DO IT NOW: It costs me more by doing it the last minute.]()
@@ -106,4 +106,3 @@ Markdown | Less | Pretty
 <a href="https://github.com/Tontan-Hak/Learning-programming/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Tontan-Hak/Learning-programming?color=2b9348"></a>
 <a href="https://github.com/Tontan-Hak/Learning-programming/blob/main/license"><img src="https://img.shields.io/github/license/Tontan-Hak/Learning-programming?color=2b9348" alt="License Badge"/></a>
 -----
-
