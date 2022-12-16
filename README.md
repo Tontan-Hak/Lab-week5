@@ -12,7 +12,7 @@ Open Source Society University](https://github.com/ossu) & [MIT challenge](https
     * [Think outside the box]()
     * [The process of reflection]()
 
-# edX-financial-assistance-answers
+# Edx-financial-assistance-answers
 ### 1. Tell us about your current financial situation. Why do you need assistance?
 I am a student and don't have any special source of income. I totally rely on my father for my college fees and pocket money and other monthly expenditure. My father took an education loan for my graduation expenses. In this circumstance, it is very much difficult for me to gather such amount of money for the certificate. Financial assistance will help me take this course without any adverse impact on my monthly essential needs. So, I’m badly in need of this financial aid. I cannot afford to buy the course for $149 alongside my monthly expenses and college fees. I would be happy to get financial help and discount. Receiving this Financial assistance will open for me a new horizon of the world of edX courses, which in turn will help me in the future.
 Awarding this scholarship will make great contribution to complete this courses. This scholarship would allow me to work less and focus more on my studies. Meanwhile, this scholarship will support me to do more on community service and explore my potential in assisting the needs of people. Furthermore, receiving this scholarship will give me more opportunities to attend the conference and expose to newly developed technology. Additionally, awarding this scholarship would further motivate me to pursue academic excellence.
