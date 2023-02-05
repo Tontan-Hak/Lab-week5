@@ -1,8 +1,6 @@
 # 🚀 Get started 
-
-The open-source for learning anything. Inspired by The [
-Open Source Society University](https://github.com/ossu) & [MIT challenge](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/), this project aims to do the self-taught education. The following document outlines free online courses from top schools like MIT, UC Irvine, et al.. The groupings by Term are meant to pace and structure the course according to a typical Mathematics track at a college or university and is a work in progress. The focus is on the core courses; liberal arts or "GenEd" courses have been omitted.
-
+| **"There’s no miracle people. It just happens they got interested in this thing and they learned all this stuff. There’s just people.”** `Richard Feynman` |
+|:------------:|
 # 📌 Self-awareness 
 - [KEY IMPORTANT POINTS]()
     * [procrastination]() | [Lazy]() | [Unmotivation]()
