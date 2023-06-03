@@ -1,4 +1,4 @@
-# 🚀 Higher Diploma in software development
+# 🚀 HIGHER DIPLOMA IN SOFTWARE DEVELOPMENT
 # TERM 1
 - Introduction to Programming (Python)
 - Introduction to Information Technology
