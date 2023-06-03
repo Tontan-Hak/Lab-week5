@@ -1,14 +1,7 @@
 # 🚀 Get started 
 | **"There’s no miracle people. It just happens they got interested in this thing and they learned all this stuff. There’s just people.”** `Richard Feynman` |
 |:------------:|
-# 📌 Self-awareness 
-- [KEY IMPORTANT POINTS]()
-    * [procrastination]() | [Lazy]() | [Unmotivation]()
-    * ["Do I have a choice of doing this task which I am procrastination?" IF no > DO IT NOW: It costs me more by doing it the last minute.]()
-    * [Time management]()
-    * [Teaching and learning priciples]()
-    * [Think outside the box]()
-    * [The process of reflection]()
+# Higher Diploma in software development
 # TERM 1
 - Introduction to Programming (Python)
 - Introduction to Information Technology
