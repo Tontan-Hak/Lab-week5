@@ -9,9 +9,29 @@
     * [Teaching and learning priciples]()
     * [Think outside the box]()
     * [The process of reflection]()
+# TERM 1
+- Introduction to Programming (Python)
+- Introduction to Information Technology
+- Digital Electronics
+- Introduction to Bussiness and Management 
+# TERM 2
+- Software Engineering 
+- Network Programming 
+- Object-Oriented Programming (C#) 
+- Foundations of Mathematics
+# TERM 3
+- Algorithms and Data structures (C#)
+- Web development
+- Final Project 1
+- Database Systems
+# TERM 4
+- Mobile Apps development (Flutter)
+- Enterpreneurship
+- Final Project 2
+- Probability and Statistics
 
-
-
+# Others 
+- You need to complete two certificates
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
