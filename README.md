@@ -12,6 +12,9 @@
 # TERM 2
 - Software Engineering 
    * [Book](https://drive.google.com/file/d/1qmLHp4NM2K0sK4VKoKkiARfZFoQxkD1O/view?usp=sharing)
+   * [Video](https://www.youtube.com/playlist?list=PL_pbwdIyffslgxMVyXhnHiSn_EWTvx1G-)
+   * [Software-Engineering-CSE307-2020 (Github)](https://github.com/FurkanGozukara/Software-Engineering-CSE307-2020)
+   * [Software Engineering Specialization](https://www.coursera.org/specializations/software-engineering)
 - Network Programming 
 - Object-Oriented Programming (C#) 
 - Foundations of Mathematics
