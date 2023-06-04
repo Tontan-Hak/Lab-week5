@@ -11,6 +11,7 @@
    * [Book](https://drive.google.com/file/d/122CZ9Nj5hJhkHZ0vNN-jsWHr1CxNQ3n5/view?usp=sharing)
 # TERM 2
 - Software Engineering 
+   * [Book](https://drive.google.com/file/d/1qmLHp4NM2K0sK4VKoKkiARfZFoQxkD1O/view?usp=sharing)
 - Network Programming 
 - Object-Oriented Programming (C#) 
 - Foundations of Mathematics
