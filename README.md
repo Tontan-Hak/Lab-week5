@@ -16,6 +16,7 @@
    * [Software-Engineering-CSE307-2020 (Github)](https://github.com/FurkanGozukara/Software-Engineering-CSE307-2020)
    * [Software Engineering Specialization](https://www.coursera.org/specializations/software-engineering)
 - Network Programming 
+   * [Information Technology (IT) Fundamentals for Everyone](https://www.coursera.org/programs/online-learning-from-your-dol-finger-lakes-rfjcv/browse?authProvider=nyslabor&collectionId=&productId=YhL7FHJKEeyKEA6Za5DszQ&productType=s12n&query=Network+Programming&showMiniModal=true&source=search)
 - Object-Oriented Programming (C#) 
 - Foundations of Mathematics
 # TERM 3
