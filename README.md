@@ -6,6 +6,7 @@
 - Introduction to Information Technology
    * [Course](https://www.coursera.org/professional-certificates/google-it-support)
 - Digital Electronics
+   * [Book](https://drive.google.com/drive/folders/16_JpoWhdDUxP-zYogi7q65K13fY05G0P?usp=sharing)
 - Introduction to Bussiness and Management 
    * [Book](https://drive.google.com/file/d/122CZ9Nj5hJhkHZ0vNN-jsWHr1CxNQ3n5/view?usp=sharing)
 # TERM 2
