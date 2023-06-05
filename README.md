@@ -21,9 +21,9 @@
 - Foundations of Mathematics
 # TERM 3
 - Algorithms and Data structures (C#)
-- Web development
+- Full Stack Web Development
 - Final Project 1
-- Database Systems
+- Full Stack Database Systems
 # TERM 4
 - Mobile Apps development (Flutter)
 - Enterpreneurship
