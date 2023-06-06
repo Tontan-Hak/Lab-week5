@@ -1,5 +1,5 @@
 # 🚀 HIGHER DIPLOMA IN SOFTWARE DEVELOPMENT
-Welcome to the course
+Welcome to the course! It is diploma not a full degree.
 # TERM 1
 - Introduction to Programming (Python)
    * [Course](https://www.py4e.com/lessons)
