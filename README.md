@@ -1,4 +1,4 @@
-# 🚀 HIGHER DIPLOMA IN SOFTWARE DEVELOPMENT
+# HIGHER DIPLOMA IN SOFTWARE DEVELOPMENT 🚀 
 Welcome to the course!
 # TERM 1
 - Introduction to Programming (Python)
