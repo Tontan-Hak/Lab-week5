@@ -31,7 +31,7 @@ Welcome to the course!
 - Final Project 2
 - Probability and Statistics
 
-# Others 
+# certificates 
 - You need to complete two certificates
 
 -----
