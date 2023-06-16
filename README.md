@@ -32,7 +32,7 @@ Welcome to the course!
 - Probability and Statistics
 
 # certificates 
-- You need to complete two certificates
+- You need to complete two professional certificates (Google, oracal, ...)
 
 -----
 | **"There’s no miracle people. It just happens they got interested in this thing and they learned all this stuff. There’s just people.”** `Richard Feynman` |
