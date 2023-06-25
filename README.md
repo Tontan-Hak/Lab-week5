@@ -1,7 +1,7 @@
 # HIGHER DIPLOMA IN SOFTWARE DEVELOPMENT 🚀 
 Welcome to the course!
 # TERM 1
-- Introduction to Programming (Python) | [Course](https://www.py4e.com/lessons)/[Book](https://drive.google.com/file/d/1WR4YG834AR2dA8bb7N_25XY0pQ8wGTYs/view?usp=sharing)
+- Introduction to Programming (Python) | [Course](https://www.py4e.com/lessons)| [Book](https://drive.google.com/file/d/1WR4YG834AR2dA8bb7N_25XY0pQ8wGTYs/view?usp=sharing)
 - Introduction to Information Technology | [Course](https://www.coursera.org/professional-certificates/google-it-support)
 - Digital Electronics | [Book](https://drive.google.com/drive/folders/16_JpoWhdDUxP-zYogi7q65K13fY05G0P?usp=sharing)
 - Introduction to Bussiness and Management | [Book](https://drive.google.com/file/d/122CZ9Nj5hJhkHZ0vNN-jsWHr1CxNQ3n5/view?usp=sharing)
