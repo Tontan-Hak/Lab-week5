@@ -25,6 +25,6 @@ Welcome to the course!
 - You need to complete two professional certificates (Google, oracal, ...)
 
 -----
-    I must follow it
+    The path way to becoming a software developer. You must follow this curriculum. 
 | **"There’s no miracle people. It just happens they got interested in this thing and they learned all this stuff. There’s just people.”** `Richard Feynman` |
 |:------------:|
