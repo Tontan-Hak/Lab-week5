@@ -2,6 +2,7 @@
 <p align="center">
 Welcome to the course!
 </p>
+
 # TERM 1
 - Introduction to Programming (Python) | [Course](https://www.py4e.com/lessons) | [Book](https://drive.google.com/file/d/1WR4YG834AR2dA8bb7N_25XY0pQ8wGTYs/view?usp=sharing)
 - Introduction to Information Technology | [Course](https://www.coursera.org/professional-certificates/google-it-support)
