@@ -1,6 +1,6 @@
 # HIGHER DIPLOMA IN SOFTWARE DEVELOPMENT 🚀 
 <p align="center">
---><-- Welcome to the course! --><--
+Welcome to the course!
 </p>
 
 # TERM 1
