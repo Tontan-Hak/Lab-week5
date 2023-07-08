@@ -30,6 +30,7 @@ Welcome to the course!
 -----
 <p align="center">
     The path way to becoming a software developer.
+    
 </p>
 
 | **"There’s no miracle people. It just happens they got interested in this thing and they learned all this stuff. There’s just people.”** `Richard Feynman` |
