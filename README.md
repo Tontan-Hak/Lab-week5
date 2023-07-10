@@ -14,8 +14,8 @@ Welcome to the course!
 > - [Geometry](https://www.khanacademy.org/math/geometry) Khan Academy
 > - [Trigonometry](https://www.khanacademy.org/math/trigonometry) Khan Academy
 #### Computer 
-- [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology)
-- [CS50's AP® Computer Science Principles](https://www.edx.org/xseries/harvardx-cs50-ap-computer-science-principles)
+> - [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology)
+> - [CS50's AP® Computer Science Principles](https://www.edx.org/xseries/harvardx-cs50-ap-computer-science-principles)
 # TERM 1
 - Introduction to Programming (Python) | [Course](https://www.py4e.com/lessons) | [Book](https://drive.google.com/file/d/1WR4YG834AR2dA8bb7N_25XY0pQ8wGTYs/view?usp=sharing)
 - Introduction to Information Technology | [Course](https://www.coursera.org/professional-certificates/google-it-support)
