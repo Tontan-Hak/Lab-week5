@@ -7,17 +7,11 @@ Welcome to the course!
 #### Mathematics
 ### The Basics
 >[Arithmetic](https://www.khanacademy.org/math/arithmetic) Khan Academy
-
 >[Pre-Algebra](https://www.khanacademy.org/math/pre-algebra) Khan Academy
-
 >[Algebra Basics](https://www.khanacademy.org/math/algebra-basics) Khan Academy
-
 >[Algebra I](https://www.khanacademy.org/math/algebra) Khan Academy
-
 >[Algebra II](https://www.khanacademy.org/math/algebra2) Khan Academy
-
 >[Geometry](https://www.khanacademy.org/math/geometry) Khan Academy
-
 >[Trigonometry](https://www.khanacademy.org/math/trigonometry) Khan Academy
 #### Computer 
 - [CS50's AP® Computer Science Principles](https://www.edx.org/xseries/harvardx-cs50-ap-computer-science-principles)
