@@ -5,13 +5,13 @@
 
 # Prerequisites
 #### Mathematics
-> * [Arithmetics](https://www.khanacademy.org/math/arithmetic-home) Khan Academy
-> * [Pre-algebra](https://www.khanacademy.org/math/pre-algebra) Khan Academy
-> * [Algebra](https://www.khanacademy.org/math/algebra-home) Khan Academy
-> * [Geometry](https://www.khanacademy.org/math/geometry-home) Khan Academy
-> * [Pre-calculus](https://www.khanacademy.org/math/precalculus) Khan Academy
-> * [Calculus 1](https://www.khanacademy.org/math/calculus-1) Khan Academy
-> * [Calculus 2](https://www.khanacademy.org/math/calculus-2) Khan Academy
+> * [Arithmetics](https://www.khanacademy.org/math/arithmetic-home) | Khan Academy
+> * [Pre-algebra](https://www.khanacademy.org/math/pre-algebra) | Khan Academy
+> * [Algebra](https://www.khanacademy.org/math/algebra-home) | Khan Academy
+> * [Geometry](https://www.khanacademy.org/math/geometry-home) | Khan Academy
+> * [Pre-calculus](https://www.khanacademy.org/math/precalculus) | Khan Academy
+> * [Calculus 1](https://www.khanacademy.org/math/calculus-1) | Khan Academy
+> * [Calculus 2](https://www.khanacademy.org/math/calculus-2) | Khan Academy
 > * [Mathematics](https://www.youtube.com/playlist?list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v)
   
 #### Computer 
