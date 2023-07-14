@@ -30,7 +30,7 @@
 # TERM 3
 - Algorithms and Data structures (C#)
 - Full Stack Web Development | [Course](https://www.udemy.com/course/the-web-developer-bootcamp/)
-- Final Project 1
+- Final Project 1 (1 project and design to make progress)
 - Full Stack Database Systems
 # TERM 4
 - Mobile Apps development (Flutter) | [course](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
