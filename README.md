@@ -3,7 +3,7 @@
 # Welcome to the course! # 
 </p>
 
-# Prerequisites
+## Prerequisites
 #### Mathematics
 > * [Arithmetics](https://www.khanacademy.org/math/arithmetic-home) | Khan Academy
 > * [Pre-algebra](https://www.khanacademy.org/math/pre-algebra) | Khan Academy
