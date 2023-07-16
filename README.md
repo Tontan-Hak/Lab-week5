@@ -28,7 +28,7 @@
 > - Object-Oriented Programming (C#) 
 > - Foundations of Mathematics
 # TERM 3
-> - Algorithms and Data structures (C#)
+> - Algorithms and Data structures (C#) or [course](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
 > - Full Stack Web Development | [Course](https://www.udemy.com/course/the-web-developer-bootcamp/)
 > - Final Project 1 (choose 1 project and design to make progressing)
 > - Full Stack Database Systems
