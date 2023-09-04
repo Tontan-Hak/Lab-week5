@@ -1,4 +1,4 @@
-# HIGHER DIPLOMA IN SOFTWARE DEVELOPMENT 🚀 
+# 🚀HIGHER DIPLOMA IN SOFTWARE DEVELOPMENT 
 ### Prerequisites
 #### Mathematics
 > * [ ] [Arithmetics](https://www.khanacademy.org/math/arithmetic-home) | Khan Academy
