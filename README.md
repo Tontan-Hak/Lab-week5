@@ -1,14 +1,14 @@
 # 🚀HIGHER DIPLOMA IN SOFTWARE DEVELOPMENT 
 ### Prerequisites
 #### Mathematics
-> * [ ] [Arithmetics](https://www.khanacademy.org/math/arithmetic-home) | Khan Academy
-> * [ ] [Pre-algebra](https://www.khanacademy.org/math/pre-algebra) | Khan Academy
-> * [ ] [Algebra](https://www.khanacademy.org/math/algebra-home) | Khan Academy
-> * [ ] [Geometry](https://www.khanacademy.org/math/geometry-home) | Khan Academy
-> * [ ] [Pre-calculus](https://www.khanacademy.org/math/precalculus) | Khan Academy
-> * [ ] [Calculus 1](https://www.khanacademy.org/math/calculus-1) | Khan Academy
-> * [ ] [Calculus 2](https://www.khanacademy.org/math/calculus-2) | Khan Academy
-> * [ ] [Mathematics](https://www.youtube.com/playlist?list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v)
+> * [x] [Arithmetics](https://www.khanacademy.org/math/arithmetic-home) | Khan Academy
+> * [x] [Pre-algebra](https://www.khanacademy.org/math/pre-algebra) | Khan Academy
+> * [x] [Algebra](https://www.khanacademy.org/math/algebra-home) | Khan Academy
+> * [x] [Geometry](https://www.khanacademy.org/math/geometry-home) | Khan Academy
+> * [x] [Pre-calculus](https://www.khanacademy.org/math/precalculus) | Khan Academy
+> * [x] [Calculus 1](https://www.khanacademy.org/math/calculus-1) | Khan Academy
+> * [x] [Calculus 2](https://www.khanacademy.org/math/calculus-2) | Khan Academy
+> * [x] [Mathematics](https://www.youtube.com/playlist?list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v)
   
 #### Computer 
 > - [x] [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology)
