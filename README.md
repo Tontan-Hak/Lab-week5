@@ -25,9 +25,9 @@
 > - [x] Object-Oriented Programming (C#) 
 > - [x] Foundations of Mathematics
 # TERM 3
-> - [x] Algorithms and Data structures (C#) or [Course](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
+> - [ ] Algorithms and Data structures (C#) or [Course](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
 > - [x] Full Stack Web Development | [Course](https://www.udemy.com/course/the-web-developer-bootcamp/)
-> - [x] OR Full Stack Database Systems | [Course](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+> - [ ] OR Full Stack Database Systems | [Course](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 > - [ ] Final Project 1 (choose 1 project and design to make progress)
 # TERM 4
 > - [ ] Mobile Apps development (Flutter) | [Course](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
