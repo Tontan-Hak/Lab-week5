@@ -12,7 +12,7 @@
 > * [x] [Mathematics](https://www.youtube.com/playlist?list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v)
   
 #### Computer 
-> - [ ] [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology)
+> - [x] [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology)
 > - [x] [CS50's AP® Computer Science Principles](https://www.edx.org/xseries/harvardx-cs50-ap-computer-science-principles)
 # TERM 1
 > - [x] Introduction to Programming (Python) | [Course](https://www.py4e.com/lessons) | [Book](https://drive.google.com/file/d/1WR4YG834AR2dA8bb7N_25XY0pQ8wGTYs/view?usp=sharing)
@@ -26,7 +26,7 @@
 > - [x] Foundations of Mathematics
 # TERM 3
 > - [ ] Algorithms and Data structures (C#) or [Course](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
-> - [ ] Full Stack Web Development | [Course](https://www.udemy.com/course/the-web-developer-bootcamp/)
+> - [x] Full Stack Web Development | [Course](https://www.udemy.com/course/the-web-developer-bootcamp/)
 > - [ ] OR Full Stack Database Systems | [Course](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 > - [ ] Final Project 1 (choose 1 project and design to make progress)
 # TERM 4
