@@ -36,7 +36,7 @@
 > - [ ] Final Project 2
 
 # certificates 
-> - [ ] You need to complete two professional certificates (Google, Oracle, ...)
+> - [x] You need to complete two professional certificates (Google, Oracle, ...)
 >
 -----
 
