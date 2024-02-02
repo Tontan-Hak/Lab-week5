@@ -20,19 +20,19 @@
 > - [x] Digital Electronics | [Book](https://drive.google.com/drive/folders/16_JpoWhdDUxP-zYogi7q65K13fY05G0P?usp=sharing)
 > - [x] Introduction to Bussiness and Management | [Book](https://drive.google.com/file/d/122CZ9Nj5hJhkHZ0vNN-jsWHr1CxNQ3n5/view?usp=sharing)
 # TERM 2
-> - [x] Software Engineering | [Book](https://drive.google.com/file/d/1qmLHp4NM2K0sK4VKoKkiARfZFoQxkD1O/view?usp=sharing) | [Video](https://www.youtube.com/playlist?list=PL_pbwdIyffslgxMVyXhnHiSn_EWTvx1G-) | [Github](https://github.com/FurkanGozukara/Software-Engineering-CSE307-2020) | [Course](https://www.coursera.org/specializations/software-engineering)
+> - [ ] Software Engineering | [Book](https://drive.google.com/file/d/1qmLHp4NM2K0sK4VKoKkiARfZFoQxkD1O/view?usp=sharing) | [Video](https://www.youtube.com/playlist?list=PL_pbwdIyffslgxMVyXhnHiSn_EWTvx1G-) | [Github](https://github.com/FurkanGozukara/Software-Engineering-CSE307-2020) | [Course](https://www.coursera.org/specializations/software-engineering)
 > - [x] Network Programming | [Information Technology (IT) Fundamentals for Everyone](https://www.coursera.org/programs/online-learning-from-your-dol-finger-lakes-rfjcv/browse?authProvider=nyslabor&collectionId=&productId=YhL7FHJKEeyKEA6Za5DszQ&productType=s12n&query=Network+Programming&showMiniModal=true&source=search)
 > - [ ] Object-Oriented Programming (C#) 
 > - [x] Foundations of Mathematics
 # TERM 3
-> - [x] Algorithms and Data structures (C#) or [Course](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
-> - [x] Full Stack Web Development | [Course](https://www.udemy.com/course/the-web-developer-bootcamp/)
+> - [ ] Algorithms and Data structures (C#) or [Course](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
+> - [ ] Full Stack Web Development | [Course](https://www.udemy.com/course/the-web-developer-bootcamp/)
 > - [ ] OR Full Stack Database Systems | [Course](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 > - [ ] Final Project 1 (choose 1 project and design to make progress)
 # TERM 4
-> - [x] Mobile Apps development (Flutter) | [Course](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
-> - [x] Probability and Statistics | [Course](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/)
-> - [x] Entrepreneurship
+> - [ ] Mobile Apps development (Flutter) | [Course](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
+> - [ ] Probability and Statistics | [Course](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/)
+> - [ ] Entrepreneurship
 > - [ ] Final Project 2
 
 # certificates 
