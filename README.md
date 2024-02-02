@@ -12,8 +12,8 @@
 > * [x] [Mathematics](https://www.youtube.com/playlist?list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v)
   
 #### Computer 
-> - [x] [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology)
-> - [x] [CS50's AP® Computer Science Principles](https://www.edx.org/xseries/harvardx-cs50-ap-computer-science-principles)
+> - [ ] [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology)
+> - [ ] [CS50's AP® Computer Science Principles](https://www.edx.org/xseries/harvardx-cs50-ap-computer-science-principles)
 # TERM 1
 > - [x] Introduction to Programming (Python) | [Course](https://www.py4e.com/lessons) | [Book](https://drive.google.com/file/d/1WR4YG834AR2dA8bb7N_25XY0pQ8wGTYs/view?usp=sharing)
 > - [x] Introduction to Information Technology | [Course](https://www.coursera.org/professional-certificates/google-it-support)
@@ -36,7 +36,7 @@
 > - [ ] Final Project 2
 
 # certificates 
-> - [x] You need to complete two professional certificates (Google, Oracle, ...)
+> - [ ] You need to complete two professional certificates (Google, Oracle, ...)
 >
 -----
 
