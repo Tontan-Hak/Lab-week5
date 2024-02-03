@@ -32,7 +32,7 @@
 # TERM 4
 > - [ ] Mobile Apps development (Flutter) | [Course](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
 > - [ ] Probability and Statistics | [Course](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/)
-> - [ ] Entrepreneurship
+> - [x] Entrepreneurship
 > - [ ] Final Project 2
 
 # certificates 
