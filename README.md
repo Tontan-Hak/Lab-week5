@@ -37,7 +37,8 @@
 
 # certificates 
 > - [ ] You need to complete two professional certificates (Google, Oracle, ...)
->
+>      - [Python for Everybody Specialization](https://www.coursera.org/programs/online-learning-from-your-dol-finger-lakes-rfjcv/specializations/python?authProvider=nyslabor)
+>      - [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
 -----
 
     The pathway to becoming a software developer.
