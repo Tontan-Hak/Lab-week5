@@ -36,7 +36,7 @@
 > - [ ] Final Project 2
 
 # certificates 
-> - [ ] You need to complete two professional certificates (Google, Oracle, ...)
+> - [x] You need to complete two professional certificates (Google, Oracle, ...)
 >      - [x] [Python for Everybody Specialization](https://www.coursera.org/programs/online-learning-from-your-dol-finger-lakes-rfjcv/specializations/python?authProvider=nyslabor)
 >      - [x] [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
 >      - [ ] [Google IT Automation with Python Professional Certificate](https://www.coursera.org/programs/online-learning-from-your-dol-finger-lakes-rfjcv/professional-certificates/google-it-automation?authProvider=nyslabor)
