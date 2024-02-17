@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=Software-Development&color=brightgreen&label=VISITORS)
-# 🚀HIGHER DIPLOMA IN SOFTWARE DEVELOPMENT 
+# HIGHER DIPLOMA IN SOFTWARE DEVELOPMENT 
 ### Prerequisites
 #### Mathematics
 > * [x] [Arithmetics](https://www.khanacademy.org/math/arithmetic-home) | Khan Academy
