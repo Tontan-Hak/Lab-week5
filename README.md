@@ -25,7 +25,7 @@
 # TERM 2
 > - [x] Software Engineering | [Book](https://drive.google.com/file/d/1qmLHp4NM2K0sK4VKoKkiARfZFoQxkD1O/view?usp=sharing) | [Video](https://www.youtube.com/playlist?list=PL_pbwdIyffslgxMVyXhnHiSn_EWTvx1G-) | [Github](https://github.com/FurkanGozukara/Software-Engineering-CSE307-2020) | [Course](https://www.coursera.org/specializations/software-engineering)
 > - [x] Network Programming | [Information Technology (IT) Fundamentals for Everyone](https://www.coursera.org/programs/online-learning-from-your-dol-finger-lakes-rfjcv/browse?authProvider=nyslabor&collectionId=&productId=YhL7FHJKEeyKEA6Za5DszQ&productType=s12n&query=Network+Programming&showMiniModal=true&source=search)
-> - [ ] Object-Oriented Programming (C#) 
+> - [x] Object-Oriented Programming (C#) 
 > - [x] Foundations of Mathematics
 # TERM 3
 > - [ ] Algorithms and Data structures (C#) or [Course](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/) | [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
