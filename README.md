@@ -2,8 +2,8 @@
 # 🚀HIGHER DIPLOMA IN SOFTWARE DEVELOPMENT 
 ### Prerequisites
 #### Mathematics
-> * [x] [Arithmetics](https://www.khanacademy.org/math/arithmetic-home) | Khan Academy
-> * [x] [Pre-algebra](https://www.khanacademy.org/math/pre-algebra) | Khan Academy
+> * [x] [▶️ Arithmetics](https://www.khanacademy.org/math/arithmetic-home) | Khan Academy
+> * [x] [▶️ Pre-algebra](https://www.khanacademy.org/math/pre-algebra) | Khan Academy
 > * [x] [Algebra](https://www.khanacademy.org/math/algebra-home) | Khan Academy
 > * [x] [Geometry](https://www.khanacademy.org/math/geometry-home) | Khan Academy
 > * [x] [Pre-calculus](https://www.khanacademy.org/math/precalculus) | Khan Academy
