@@ -12,7 +12,7 @@
 > * [x] [Mathematics](https://www.youtube.com/playlist?list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v)
   
 #### Computer 
-> - [x] [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology)
+> - [ ] [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology)
 > - [ ] [CS50's AP® Computer Science Principles](https://www.edx.org/xseries/harvardx-cs50-ap-computer-science-principles)
 > - [ ] [Mathematics For Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
 > - [ ] [Introduction To Computer Science And Programming In Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
