@@ -2,7 +2,7 @@
 
 int main()
 {
-    // int i; 
+    int i; 
 
     printf("Code like a Pro!");
 
