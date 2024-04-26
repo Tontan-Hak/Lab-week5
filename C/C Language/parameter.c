@@ -23,3 +23,13 @@ int main(){
     myFunction(myNumber);
     return 0;
 }
+
+/* int myFunction(int x, int y){
+    return x + y;
+}
+int main(){
+    int result = myFunction(10, 20);
+    printf("The result is %d\n", result);
+    return 0;
+}
+*/
