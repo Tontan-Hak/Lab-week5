@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// This is a comment
 int main() {
     string name= "John Doe";	
     int age = 30;
