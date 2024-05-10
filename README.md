@@ -33,7 +33,7 @@
 > - [ ] OR Full Stack Database Systems | [Course](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 > - [x] Final Project 1 (choose 1 project and design to make progress)
 # TERM 4
-> - [ ] Mobile Apps development (Flutter) | [Course](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
+> - [x] Mobile Apps development (Flutter) | [Course](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
 > - [x] Probability and Statistics | [Course](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/)
 > - [x] Entrepreneurship
 > - [ ] Final Project 2
