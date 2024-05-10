@@ -29,7 +29,7 @@
 > - [x] Foundations of Mathematics
 # TERM 3
 > - [x] Algorithms and Data structures (C#) or [Course](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/) | [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
-> - [ ] Full Stack Web Development | [Course](https://www.udemy.com/course/the-web-developer-bootcamp/)
+> - [x] Full Stack Web Development | [Course](https://www.udemy.com/course/the-web-developer-bootcamp/)
 > - [ ] OR Full Stack Database Systems | [Course](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 > - [x] Final Project 1 (choose 1 project and design to make progress)
 # TERM 4
