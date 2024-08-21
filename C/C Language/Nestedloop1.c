@@ -1,5 +1,5 @@
 #include<stdio.h>
-main(){
+int main(){
     int r,i,j;
     printf("Enter row of diamond:");
     scanf("%d", &r);
