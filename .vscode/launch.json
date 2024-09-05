@@ -1,6 +1,27 @@
 {
     "configurations": [
         {
+            "type": "java",
+            "name": "HelloGoodbye",
+            "request": "launch",
+            "mainClass": "HelloGoodbye",
+            "projectName": "Software-Development_cbaf3edb"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "Software-Development_cbaf3edb"
+        },
+        {
+            "type": "java",
+            "name": "RandomWord",
+            "request": "launch",
+            "mainClass": "RandomWord",
+            "projectName": "Software-Development_cbaf3edb"
+        },
+        {
             "name": "C/C++: gcc.exe build and debug active file",
             "type": "cppdbg",
             "request": "launch",
