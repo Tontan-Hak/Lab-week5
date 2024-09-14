@@ -45,6 +45,7 @@
 >      - [ ] [Google IT Automation with Python Professional Certificate](https://www.coursera.org/programs/online-learning-from-your-dol-finger-lakes-rfjcv/professional-certificates/google-it-automation?authProvider=nyslabor)
 -----
 
+
     The pathway to becoming a software developer.
 
 # Plus courses
