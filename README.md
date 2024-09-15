@@ -29,7 +29,7 @@
 > - [x] Foundations of Mathematics
 # TERM 3
 > - [x] Algorithms and Data structures (C#) or [Course](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/) | [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
-> - [ ]  Full Stack Web Development | [Course](https://www.udemy.com/course/the-web-developer-bootcamp/)
+> - [x]  Full Stack Web Development | [Course](https://www.udemy.com/course/the-web-developer-bootcamp/)
 > - [x] OR Full Stack Database Systems | [Course](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 > - [ ] Final Project 1 (choose 1 project and design to make progress)
 # TERM 4
@@ -44,6 +44,7 @@
 >      - [x] [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
 >      - [ ] [Google IT Automation with Python Professional Certificate](https://www.coursera.org/programs/online-learning-from-your-dol-finger-lakes-rfjcv/professional-certificates/google-it-automation?authProvider=nyslabor)
 -----
+
 
     The pathway to becoming a software developer.
 
