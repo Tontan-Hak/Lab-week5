@@ -29,12 +29,12 @@
 > - [x] Foundations of Mathematics
 # TERM 3
 > - [x] Algorithms and Data structures (C#) or [Course](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/) | [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
-> - [x]  Full Stack Web Development | [Course](https://www.udemy.com/course/the-web-developer-bootcamp/)
+> - [ ]  Full Stack Web Development | [Course](https://www.udemy.com/course/the-web-developer-bootcamp/)
 > - [ ] OR Full Stack Database Systems | [Course](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 > - [ ] Final Project 1 (choose 1 project and design to make progress)
 # TERM 4
 > - [ ] Mobile Apps development (Flutter) | [Course](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
-> - [x] Probability and Statistics | [Course](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/)
+> - [ ] Probability and Statistics | [Course](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/)
 > - [x] Entrepreneurship
 > - [ ] Final Project 2
 
