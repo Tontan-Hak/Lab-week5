@@ -13,7 +13,7 @@
   
 #### Computer 
 > - [x] [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology)
-> - [ ] [CS50’s Introduction to Programming with Scratch](https://cs50.harvard.edu/scratch/2024/)
+> - [x] [CS50’s Introduction to Programming with Scratch](https://cs50.harvard.edu/scratch/2024/)
 > - [x] [CS50's AP® Computer Science Principles](https://www.edx.org/xseries/harvardx-cs50-ap-computer-science-principles)
 > - [ ] [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2024/)
 > - [ ] [CS50’s Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/)
