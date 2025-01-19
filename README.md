@@ -13,10 +13,13 @@
   
 #### Computer 
 > - [x] [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology)
+> - [ ] [CS50’s Introduction to Programming with Scratch](https://cs50.harvard.edu/scratch/2024/)
 > - [x] [CS50's AP® Computer Science Principles](https://www.edx.org/xseries/harvardx-cs50-ap-computer-science-principles)
-> - [ ] [Mathematics For Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
-> - [ ] [Introduction To Computer Science And Programming In Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
-> - [ ] [Introduction To Computational Thinking And Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
+> - [ ] [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2024/)
+> - [ ] [CS50’s Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/)
+> - [ ] [Mathematics For Computer Science (MIT)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
+> - [ ] [Introduction To Computer Science And Programming In Python (MIT)](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+> - [ ] [Introduction To Computational Thinking And Data Science (MIT)](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 # TERM 1
 > - [x] Introduction to Programming (Python) | [Course](https://www.py4e.com/lessons) | [Book](https://drive.google.com/file/d/1WR4YG834AR2dA8bb7N_25XY0pQ8wGTYs/view?usp=sharing)
 > - [x] Introduction to Information Technology | [Course](https://www.coursera.org/professional-certificates/google-it-support)
