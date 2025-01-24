@@ -13,10 +13,13 @@
   
 #### Computer 
 > - [x] [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology)
-> - [x] [CS50's AP® Computer Science Principles](https://www.edx.org/xseries/harvardx-cs50-ap-computer-science-principles)
-> - [ ] [Mathematics For Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
-> - [ ] [Introduction To Computer Science And Programming In Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
-> - [ ] [Introduction To Computational Thinking And Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
+> - [x] [CS50’s Introduction to Programming with Scratch](https://cs50.harvard.edu/scratch/2024/)
+> - [ ] [CS50's AP® Computer Science Principles](https://www.edx.org/xseries/harvardx-cs50-ap-computer-science-principles)
+> - [ ] [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2024/)
+> - [ ] [CS50’s Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/)
+> - [ ] [Mathematics For Computer Science (MIT)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
+> - [ ] [Introduction To Computer Science And Programming In Python (MIT)](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+> - [ ] [Introduction To Computational Thinking And Data Science (MIT)](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 # TERM 1
 > - [x] Introduction to Programming (Python) | [Course](https://www.py4e.com/lessons) | [Book](https://drive.google.com/file/d/1WR4YG834AR2dA8bb7N_25XY0pQ8wGTYs/view?usp=sharing)
 > - [x] Introduction to Information Technology | [Course](https://www.coursera.org/professional-certificates/google-it-support)
@@ -29,8 +32,8 @@
 > - [x] Foundations of Mathematics
 # TERM 3
 > - [ ] Algorithms and Data structures (C#) or [Course](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/) | [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
-> - [ ]  Full Stack Web Development | [Course](https://www.udemy.com/course/the-web-developer-bootcamp/)
-> - [ ] OR Full Stack Database Systems | [Course](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+> - [x]  Full Stack Web Development | [Course](https://www.udemy.com/course/the-web-developer-bootcamp/)
+> - [x] OR Full Stack Database Systems | [Course](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 > - [ ] Final Project 1 (choose 1 project and design to make progress)
 # TERM 4
 > - [ ] Mobile Apps development (Flutter) | [Course](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
